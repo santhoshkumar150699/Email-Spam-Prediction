@@ -29,4 +29,4 @@
 - Clone this repository to your local machine.
 - Install the required dependencies using pip install -r requirements.txt.
 - Run the Jupyter Notebook to explore the project and train the spam filter.
-![alt text](jupyter notebook Spam_Filter_Project.ipynb)
+- ![alt text](jupyter notebook Spam_Filter_Project.ipynb)
