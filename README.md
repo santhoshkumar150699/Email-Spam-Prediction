@@ -23,9 +23,10 @@
 * Enhances email security and organization.
 * Contributes to a safer and more enjoyable email experience.
 ## Requirements
-##### Python 3.x
-- Required packages and dependencies are listed in requirements.txt.Usage
-Clone this repository to your local machine.
-Install the required dependencies using pip install -r requirements.txt.
-Run the Jupyter Notebook to explore the project and train the spam filter.
-jupyter notebook Spam_Filter_Project.ipynb
+- Python 3.x
+- Required packages and dependencies are listed in requirements.txt.
+## Usage
+- Clone this repository to your local machine.
+- Install the required dependencies using pip install -r requirements.txt.
+- Run the Jupyter Notebook to explore the project and train the spam filter.
+![alt text](jupyter notebook Spam_Filter_Project.ipynb)
