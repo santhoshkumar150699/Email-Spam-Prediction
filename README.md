@@ -1,15 +1,15 @@
 # Email-Spam-Prediction
 * Email Spam Filter using Logistic Regression
-  A Python project that utilizes Logistic Regression to build an effective spam email filter. This filter classifies incoming emails as 
-  spam or non-spam (ham) with high precision, enhancing email security and organization.
+* A Python project that utilizes Logistic Regression to build an effective spam email filter.
+*  This filter classifies incoming emails as pam or non-spam (ham) with high precision, enhancing email security and organization.
 
 ## Table of Contents
- 1. Introduction
- 2. Features
- 3. Requirements
- 4. Usage
- 5. Project Structure
- 6. License
+ *  Introduction
+ -  Features
+ -  Requirements
+ -  sage
+ -  roject Structure
+ -  License
 
 # Introduction
 In the digital age, email communication is essential, but the constant influx of spam emails can be overwhelming and pose security risks. 
